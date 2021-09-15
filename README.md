@@ -28,13 +28,13 @@
 [
   {
     "id": 1,
-    "cedula": "1350352777",
+    "cedula": "130000000",
     "nombres": "Rey Cruz",
     "apellidos": "Mera Macias",
-    "email": "reycruzmeramacias@gmail.com",
-    "fechanacimiento": "03/09/1995",
+    "email": "rey@gmail.com",
+    "fechanacimiento": "12/10/1995",
     "direcciondomicilio": "Portoviejo",
-    "telefonomovil": "0991768974",
+    "telefonomovil": "0998888444",
     "estadovacuna": false,
     "tipovacuna": "Pfizer",
     "fechavacuna": "07/08/2021",
