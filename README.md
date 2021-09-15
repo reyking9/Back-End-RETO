@@ -23,3 +23,21 @@
 #### ------------------------------------------------------------------------
 #### Put
 #### http://localhost:8080/api/test/usuarios/+{id}
+#### ------------------------------------------------------------------------
+#### Datos de ejemplo en Json:
+[
+  {
+    "id": 1,
+    "cedula": "1350352777",
+    "nombres": "Rey Cruz",
+    "apellidos": "Mera Macias",
+    "email": "reycruzmeramacias@gmail.com",
+    "fechanacimiento": "03/09/1995",
+    "direcciondomicilio": "Portoviejo",
+    "telefonomovil": "0991768974",
+    "estadovacuna": false,
+    "tipovacuna": "Pfizer",
+    "fechavacuna": "07/08/2021",
+    "numerodosis": 2
+  }
+]
